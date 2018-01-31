@@ -33,6 +33,16 @@ Please enter any values between the "quotes" ("")
 
 What values you need are explained in the file.
 
+**USING THE SCRIPT**
+
+To use the script, open a command prompt/terminal window in the script's directory and enter:
+
+```python
+python ipodScrobbler.py
+```
+
+or double click the ipodScrobbler.py file and it should open in a command prompt/terminal window.
+
 ## TODO
 
 In the future I plan to:
